@@ -6,10 +6,6 @@ Hi, my name is Turan and I'm 19. I started software development 2 year ago with 
     <img src="https://komarev.com/ghpvc/?username=TruenK&color=dc143c"/>
 </div>
 
-<div align="center">
-    <a href="https://discord.com/users/852913443706503198" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852913443706503198"></a>
-</div>
-
 ## ⚡ Contact
 
 <div align="center">
