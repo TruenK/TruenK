@@ -1,6 +1,6 @@
 # Hi, I am Truen
 
-Hi, my name is Turan and I'm 19. I started software development 2 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, Lua , Python developer. 
+Hi, my name is Turan and I'm 17. I started software development 2 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, Lua , Python developer. 
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=TruenK&color=dc143c"/>
