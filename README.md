@@ -24,6 +24,7 @@ Hi, my name is Turan and I'm 17. I started software development 2 year ago with 
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
     <img alt="HTML5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img alt="CSS3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
+    <img alt="PYTHON" align="center" src="[https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white](https://www.python.org/static/community_logos/python-logo.png)"/>
 </div>
 
 ## 📈 Github Stats
